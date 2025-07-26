@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure CSS is loaded properly */
+:root {
+  --font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Critical performance optimizations */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--font-family);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  background-color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Optimize animations for performance */
+.will-change-transform {
+  will-change: transform;
+}
+
+.will-change-opacity {
+  will-change: opacity;
+}
+
+/* GPU acceleration for smooth animations */
+.gpu-accelerated {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+.tag-top-right-slice {
+  clip-path: polygon(0 0, 92% 0, 100% 100%, 0% 100%);
+  display: inline-block;
+  position: relative;
+  transform: translateZ(0); /* GPU acceleration */
+}
+
+.tag-top-right-slice::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -40%;
+  height: 100%;
+  width: 30%;
+  /* narrower shine */
+  background: linear-gradient(120deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.2) 50%,
+      transparent 100%);
+  transform: skewX(-20deg);
+  animation: shimmer 3s infinite;
+  pointer-events: none;
+  opacity: 0.7;
+  /* further reduce brightness */
+  will-change: transform;
+}
+
+@keyframes shimmer {
+  0% {
+    left: -40%;
+  }
+
+  100% {
+    left: 100%;
+  }
+}
+
+/* Smooth transitions for better UX */
+.transition-fast {
+  transition: all 0.15s ease-out;
+}
+
+.transition-smooth {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Product grid specific styles */
+.product-grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0;
+  contain: layout style paint;
+}
+
+.product-card-wrapper {
+  border-bottom: 1px solid #e5e7eb;
+  border-right: 1px solid #e5e7eb;
+  contain: layout style paint;
+}
+
+.product-card-wrapper:nth-child(even) {
+  border-right: none;
+}
+
+.product-card-wrapper:nth-last-child(-n+2) {
+  border-bottom: none;
+}
+
+/* Ensure consistent card heights */
+.product-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  contain: layout style paint;
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+
+  100% {
+    transform: scale(3);
+    opacity: 0;
+  }
+}
+
+/* Critical loading optimizations */
+.critical-content {
+  contain: layout style paint;
+  transform: translateZ(0);
+}
+
+.lazy-content {
+  contain: layout style paint;
+  content-visibility: auto;
+  contain-intrinsic-size: 0 500px;
+}
