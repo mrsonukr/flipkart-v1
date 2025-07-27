@@ -11,7 +11,7 @@ const formatNumberWithCommas = (num) =>
   num.toLocaleString("en-IN", { maximumFractionDigits: 2 });
 
 const UPIPaymentOptions = () => {
-  const [selected, setSelected] = useState("upi");
+  const [selected, setSelected] = useState("phonepe");
   const navigate = useNavigate();
   
   // State to track if a payment button was clicked
