@@ -9,7 +9,7 @@ const PRODUCTS_PER_PAGE = 6; // Reduced for faster initial load
 const GRID_STATE_KEY = 'product_grid_state_v2';
 
 // Toggle to control random display - set to true for random, false for original order
-const SHOW_PRODUCTS_RANDOMLY = true;
+const SHOW_PRODUCTS_RANDOMLY = false;
 
 // Fisher-Yates shuffle algorithm for randomizing products
 const shuffleArray = (array) => {
