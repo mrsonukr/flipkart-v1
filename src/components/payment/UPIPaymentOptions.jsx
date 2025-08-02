@@ -1,6 +1,5 @@
 // UPIPaymentOptions.jsx
-import React, { useState, useEffect, useRef } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useState, useEffect} from "react";
 import { calculateCartTotals } from "../../utils/cartUtils";
 
 // Your custom payment URL format
@@ -12,14 +11,6 @@ const formatNumberWithCommas = (num) =>
 
 const UPIPaymentOptions = () => {
   const [selected, setSelected] = useState("phonePe");
-  const navigate = useNavigate();
-  
-  // State to track if a payment button was clicked
-  const [paymentButtonClicked, setPaymentButtonClicked] = useState(false);
-  
-  // Ref to store the latest state value for event handlers
-  const paymentButtonClickedRef = useRef(false);
-  
   const [cartTotals, setCartTotals] = useState({
     totalMRP: 0,
     totalDiscount: 0,
@@ -31,10 +22,6 @@ const UPIPaymentOptions = () => {
     savings: 0,
   });
 
-  useEffect(() => {
-    // Update ref whenever state changes
-    paymentButtonClickedRef.current = paymentButtonClicked;
-  }, [paymentButtonClicked]);
 
   useEffect(() => {
     updateCartTotals();
@@ -47,49 +34,6 @@ const UPIPaymentOptions = () => {
     return () => window.removeEventListener("cartUpdated", handleCartUpdate);
   }, []);
 
-  useEffect(() => {
-    // Page leave detection event handlers
-    const handleVisibilityChange = () => {
-      // Detect when page becomes hidden (user switches tabs/apps)
-      if (document.hidden && paymentButtonClickedRef.current) {
-        // Small delay to ensure the payment app has time to open
-        setTimeout(() => {
-          navigate('/pay/');
-        }, 1000);
-      }
-    };
-
-    const handlePageHide = () => {
-      // Detect when page is being hidden (more reliable than beforeunload)
-      if (paymentButtonClickedRef.current) {
-        navigate('/pay/');
-      }
-    };
-
-    const handleFocusOut = () => {
-      // Detect when window loses focus (user clicked outside)
-      if (paymentButtonClickedRef.current) {
-        // Delay to distinguish between temporary focus loss and actual app switch
-        setTimeout(() => {
-          if (document.hidden || !document.hasFocus()) {
-            navigate('/pay/');
-          }
-        }, 2000);
-      }
-    };
-
-    // Add event listeners for various page leave scenarios
-    document.addEventListener('visibilitychange', handleVisibilityChange);
-    window.addEventListener('pagehide', handlePageHide);
-    window.addEventListener('blur', handleFocusOut);
-
-    // Cleanup event listeners on component unmount
-    return () => {
-      document.removeEventListener('visibilitychange', handleVisibilityChange);
-      window.removeEventListener('pagehide', handlePageHide);
-      window.removeEventListener('blur', handleFocusOut);
-    };
-  }, [navigate]);
 
   const updateCartTotals = () => {
     const totals = calculateCartTotals();
@@ -100,11 +44,8 @@ const UPIPaymentOptions = () => {
     return `${scheme}:${customPaymentUrl}&am=${cartTotals.finalAmount}`;
   };
 
-  // Enhanced payment handler that tracks button clicks and handles page leave
+  // Simple payment handler that only opens the payment app
   const handlePaymentClick = (scheme) => {
-    // Mark that a payment button was clicked
-    setPaymentButtonClicked(true);
-    
     // Generate the payment URL
     const paymentUrl = generateLink(scheme);
     
@@ -113,8 +54,6 @@ const UPIPaymentOptions = () => {
       window.location.href = paymentUrl;
     } catch (error) {
       console.error('Failed to open payment app:', error);
-      // If payment app fails to open, reset the clicked state
-      setPaymentButtonClicked(false);
     }
   };
 
