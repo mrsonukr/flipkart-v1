@@ -1,6 +1,1035 @@
 {
   "products": [
     {
+      "id": "mobile-1752856968829",
+      "name": "iPhone 15 Plus (Blue, 256 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 89900,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/7/h/-original-imagtc5fyznz42bx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/m/3/-original-imagtc5ffhbausfy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/k/t/-original-imah4xe6cff8cejm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/b/j/-original-imah4xe6hwmfyxdn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/v/k/-original-imagtc5fx9jzazdy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/h/z/-original-imagtc5fbxefnjtj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/g/s/-original-imah4xe6e9gsvyeh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/0/s/-original-imagtc6fdrherccv.jpeg"
+      ],
+      "averageRating": 4.9,
+      "totalReviews": 24925,
+      "stockStatus": "Performance Beast",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Blue"
+        },
+        {
+          "type": "storage",
+          "name": "256 GB"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752857028542",
+      "name": "iPhone 16 Pro Max (White Titanium, 512 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 164900,
+      "salePrice": 599,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/q/r/-original-imah4jz64htqmsxg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/a/b/-original-imah4jz6wkpzmqzk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/k/9/-original-imah4jywn67cjzfp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/k/q/-original-imah4jywmz4ezgxs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/9/1/-original-imah4jywasgcqcqz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/j/f/-original-imah4jywzggxndyg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/7/e/-original-imahb4mumpgykgqe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/j/w/-original-imah4jz6tcfgg4ac.jpeg"
+      ],
+      "averageRating": 4.2,
+      "totalReviews": 5900,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "White Titanium"
+        },
+        {
+          "type": "storage",
+          "name": "512 GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752857110006",
+      "name": "iPhone 16 Pro (Natural Titanium, 256 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 129900,
+      "salePrice": 449,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/o/h/m/-original-imah4jywmcz5ysz3.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/a/e/-original-imah4jywx3pnmh7y.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/i/c/-original-imah4jyweenbdphu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/w/q/-original-imah4jywmuur2nwb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/9/1/-original-imah4jywasgcqcqz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/j/f/-original-imah4jywzggxndyg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/7/e/-original-imahb4mumpgykgqe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/o/g/-original-imah4jywz4f3s89e.jpeg"
+      ],
+      "averageRating": 4.8,
+      "totalReviews": 12055,
+      "stockStatus": "Performance Beast",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Natural Titanium"
+        },
+        {
+          "type": "storage",
+          "name": "256 GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752857192166",
+      "name": "iPhone 14 (Starlight, 128 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 59900,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/i/k/-original-imaghxcpnmgx3jfa.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/v/s/-original-imaghxcpwgy2t2sg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/i/7/-original-imaguypzzhbzm5an.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/f/h/-original-imaguypztg4ddpes.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/q/n/-original-imagh2gw4zqxyzst.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/d/y/-original-imaghxcpvtta2hzs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/b/i/-original-imaghxcptg5mdycw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/t/g/-original-imaghxcp4ctcfwff.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/k/w/-original-imaghxcpw5ypwdak.jpeg"
+      ],
+      "averageRating": 4.7,
+      "totalReviews": 18060,
+      "stockStatus": "Performance Beast",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Starlight"
+        },
+        {
+          "type": "storage",
+          "name": "128 GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "mobile-1752857277317",
+      "name": "iPhone 15 Pro (Natural Titanium, 512 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 164900,
+      "salePrice": 499,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/u/a/-original-imagtc4hsx9mzfra.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/q/f/-original-imagtc4hmrdfffmn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/j/x/-original-imagtc4hr6tjxhfh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/i/l/-original-imagtc3kbzhefbc7.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/5/a/-original-imagtc4gjqfnarcs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/e/r/-original-imagtc3kugbc22hu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/w/r/-original-imagtc3kkgr9nqxe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/y/4/-original-imagtc3kfsrgguwa.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/1/r/-original-imagtc4hydzer2tq.jpeg"
+      ],
+      "averageRating": 4.1,
+      "totalReviews": 44602,
+      "stockStatus": "Top Discount",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Natural Titanium"
+        },
+        {
+          "type": "storage",
+          "name": "512 GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "mobile-1752858445812",
+      "name": "iPhone 15 Pro Max (White Titanium, 256 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 159900,
+      "salePrice": 599,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/h/c/-original-imagtc3h9h6kpbkc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/u/t/-original-imagtc3hfqbyq9rh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/8/6/-original-imagtc3hznzau4cy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/3/j/-original-imagtc3hfmsxaeyt.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/b/t/-original-imagtc3kkzh3yf2x.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/e/r/-original-imagtc3kugbc22hu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/w/r/-original-imagtc3kkgr9nqxe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/y/4/-original-imagtc3kfsrgguwa.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/e/b/-original-imagtc3hjezhpu7x.jpeg"
+      ],
+      "averageRating": 4.4,
+      "totalReviews": 47289,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "White Titanium"
+        },
+        {
+          "type": "storage",
+          "name": "256 GB"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752858500336",
+      "name": "iPhone 15 (Blue, 128 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 69900,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/7/h/-original-imagtc5fyznz42bx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/m/3/-original-imagtc5ffhbausfy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/k/t/-original-imah4xe6cff8cejm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/b/j/-original-imah4xe6hwmfyxdn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/v/k/-original-imagtc5fx9jzazdy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/h/z/-original-imagtc5fbxefnjtj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/g/s/-original-imah4xe6e9gsvyeh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/s/1/-original-imagtc5fxxhhgtrz.jpeg"
+      ],
+      "averageRating": 4.6,
+      "totalReviews": 10186,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Blue"
+        },
+        {
+          "type": "storage",
+          "name": "128 GB"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752860032121",
+      "name": "iPhone 16 (Black, 256 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 89900,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/w/5/-original-imah4jyfwr3bfjbg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/3/o/-original-imah4jyff8xzheuy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/v/v/-original-imah4jyfyagaf4vh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/c/q/-original-imah4jyfugnkhdgh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/n/s/-original-imah4jyfrrhgvyht.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/2/w/-original-imah4jyfh4h3cyhp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/7/e/-original-imahb4mumpgykgqe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/i/n/-original-imah4jyfmamvqyb8.jpeg"
+      ],
+      "averageRating": 4.6,
+      "totalReviews": 27113,
+      "stockStatus": "Performance Beast",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Black"
+        },
+        {
+          "type": "storage",
+          "name": "256 GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "mobile-1752860142086",
+      "name": "iPhone 14 Pro (Gold, 512 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 149900,
+      "salePrice": 499,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/h/c/-original-imaghxemmqyahnuj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/s/l/-original-imaghxemhkf65etg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/z/t/-original-imaghxempyrdczrw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/f/w/f/-original-imaghxemrgmbnrzq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/m/l/-original-imaghxejxzzzkqr7.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/l/o/-original-imagh2gwesthjarp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/w/t/-original-imaghxejwsetftfc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/k/9/-original-imaghycfznsrx3ad.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/d/t/-original-imaghxembperu9hb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/o/z/-original-imaghxemcbgxsrfq.jpeg"
+      ],
+      "averageRating": 4.6,
+      "totalReviews": 32149,
+      "stockStatus": "Top Discount",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Gold"
+        },
+        {
+          "type": "storage",
+          "name": "512 GB"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752860229582",
+      "name": "iPhone 13 (Starlight, 128 GB)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 49900,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/a/z/g/iphone-13-mlpg3hn-a-apple-original-imag6vpyxhzdccrc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/y/g/j/iphone-13-mlpg3hn-a-apple-original-imag6vpyfftrfbzu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/e/g/-original-imagh7g8k7ttcdkc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/k/h/-original-imagh2gwxu57j4fn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/8/t/p/iphone-13-mlpg3hn-a-apple-original-imag6vpyhcmvgytj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/s/b/v/iphone-13-mlpg3hn-a-apple-original-imag6vpybxyz7wvq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/f/t/x/iphone-13-mlpg3hn-a-apple-original-imag6vpyk8g92fpn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/t/r/6/iphone-13-mlpf3hn-a-apple-original-imag6vzz4ekzra9f.jpeg"
+      ],
+      "averageRating": 4.5,
+      "totalReviews": 17611,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Starlight"
+        },
+        {
+          "type": "storage",
+          "name": "128 GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752860368863",
+      "name": "Galaxy S22 Ultra 5G (Phantom White, 256 GB)  (12 GB RAM)",
+      "brand": "Samsung",
+      "category": "mobile",
+      "mrp": 131999,
+      "salePrice": 499,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/o/2/g/-original-imahfayjj4hqqqsj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/3/x/-original-imagzm8pagefz9z4.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/s/z/-original-imaggj69uffqyh5r.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/1/t/-original-imaggj68ed7skur8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/j/4/-original-imaggj68a3febhsz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/x/s/-original-imaggj68czpkbp9f.jpeg"
+      ],
+      "averageRating": 4.9,
+      "totalReviews": 8380,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Phantom White"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 256GB"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752860449624",
+      "name": "Galaxy S23 Ultra 5G (Green, 256 GB)  (12 GB RAM)",
+      "brand": "Samsung",
+      "category": "mobile",
+      "mrp": 149999,
+      "salePrice": 549,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/5/1/-original-imagzm8pvabtmeys.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/l/2/-original-imagzm8pyjbrzjxs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/m/t/-original-imagmg6gyhzhh3fb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/y/u/-original-imagmg6ggzazdevx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/4/u/-original-imagmg6gynphgrh8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/o/7/w/t1-44w-v2153-v2168-vivo-original-imahfyfm4uvz8qzq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/w/t/-original-imagmg6gwun9dmxu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/9/a/-original-imagmg6gvnxechaf.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/m/b/-original-imagmg6gxps2jkqc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/5/a/galaxy-z-flip4-5g-sm-f721bzdainu-samsung-original-imah4md49w4hqhfw.jpeg"
+      ],
+      "averageRating": 4,
+      "totalReviews": 30318,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Green"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 256GB"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752860504995",
+      "name": "Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)  (12 GB RAM)",
+      "brand": "Samsung",
+      "category": "mobile",
+      "mrp": 134999,
+      "salePrice": 599,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/i/7/-original-imahfu766ybd5h4z.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/o/s/c/-original-imagx9pfuguwhfhe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/f/y/-original-imagx9pf7dd5ny7n.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/b/h/-original-imagx9pfdevtsjey.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/5/d/-original-imagy63spzffxgcg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/6/r/-original-imagx9egwjgtgwqf.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/t/a/-original-imagx9egkfqux8qh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/u/o/-original-imagx9egvraqxfeh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/u/a/-original-imagx9egd2csrur5.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/a/c/-original-imagx9eghmmcbpup.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/r/u/-original-imagx9egxcyjzvux.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/j/i/-original-imagx9egdetafafz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/r/f/-original-imagx9egbpzh8bhu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/y/i/-original-imahfu769c4auwdg.jpeg"
+      ],
+      "averageRating": 4.9,
+      "totalReviews": 23163,
+      "stockStatus": "Top Discount",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Titanium Gray"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 256GB"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752860567691",
+      "name": "Galaxy S25 Ultra 5G (Titanium Black, 512 GB)  (12 GB RAM)",
+      "brand": "Samsung",
+      "category": "mobile",
+      "mrp": 141999,
+      "salePrice": 599,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/c/j/-original-imahch2ktgtustdj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/x/b/-original-imahch2kbz6cahsn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/b/g/-original-imahch2ky5bykkzu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/f/j/-original-imahch2kzcyjftux.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/6/d/-original-imahch2kqqzkj7k8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/u/p/-original-imahch2k5an8cm4g.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/m/w/-original-imahch2kxs9vpean.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/v/g/-original-imahch2kgvnrrqws.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/s/m/-original-imahch2ky7zj2ye8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/t/7/-original-imahch2kn3rsz3vz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/o/d/-original-imahch2krkwhywuh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/r/k/-original-imahch2kupupfac4.jpeg"
+      ],
+      "averageRating": 4.8,
+      "totalReviews": 4276,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Titanium Black"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 512GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752860660247",
+      "name": "GT 20 Pro (Mecha Orange, 256 GB)  (8 GB RAM)",
+      "brand": "Infinix",
+      "category": "mobile",
+      "mrp": 31999,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/n/a/-original-imahf38d9qynp6ef.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/p/9/-original-imahf38dahdumhkm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/l/e/-original-imahf38d8yfsuy5a.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/s/y/-original-imahf38d4dyxzhdk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/h/b/-original-imahf38d9x9mr8f9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/z/w/-original-imahf38dq6ggquzs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/k/l/-original-imahf38dzvryzyax.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/a/z/-original-imahf38draqsgu9c.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/n/f/-original-imahf38d6r8wwrg9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/1/t/-original-imahf38dmtuzshg2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/z/t/-original-imahfb69qbspw6w2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/n/c/-original-imahfb69qvp8ku8q.jpeg"
+      ],
+      "averageRating": 4.4,
+      "totalReviews": 48975,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Mecha Orange"
+        },
+        {
+          "type": "storage",
+          "name": "8GB + 256GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "mobile-1752860761729",
+      "name": "OnePlus 13 (Black Eclipse, 256 GB)  (12 GB RAM)",
+      "brand": "OnePlus",
+      "category": "mobile",
+      "mrp": 72999,
+      "salePrice": 399,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/k/z/13-smarter-ai-cph2649-oneplus-original-imah8chrqrvkw7kt.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/4/7/13-smarter-ai-cph2649-oneplus-original-imah8chru5fzsum7.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/o/r/s/13-smarter-ai-cph2649-oneplus-original-imah8chrzbghfxhg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/x/b/13-smarter-ai-cph2649-oneplus-original-imah8chpdyy8f6qc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/h/n/13-smarter-ai-cph2649-oneplus-original-imah8chpdeby7hwt.jpeg"
+      ],
+      "averageRating": 4.7,
+      "totalReviews": 7396,
+      "stockStatus": "Performance Beast",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Black Eclipse"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 256GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "mobile-1752860829894",
+      "name": "Pixel 9 Pro (Porcelain, 256 GB)  (16 GB RAM)",
+      "brand": "Google",
+      "category": "mobile",
+      "mrp": 109999,
+      "salePrice": 499,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/0/o/-original-imah5mtmrtwcmgdv.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/i/c/-original-imah5mtm7qba7cbu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/w/y/-original-imah5mtmggzgj5ez.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/l/y/-original-imah5mtmq8t5w9gn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/o/m/-original-imah5mtmvkvb8uvm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/l/g/-original-imah5mtmbbbmp2gj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/3/m/-original-imah5mtmw3mgc6yu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/j/d/-original-imah5mtmc8sk3x6q.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/x/s/-original-imah5mtmfpp6gu3h.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/b/h/-original-imah5mtmkcpuhxbf.jpeg"
+      ],
+      "averageRating": 4.3,
+      "totalReviews": 8732,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Porcelain"
+        },
+        {
+          "type": "storage",
+          "name": "16GB + 256GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752860894829",
+      "name": "Edge 60 Pro (Pantone Shadow, 256 GB)  (8 GB RAM)",
+      "brand": "Motorola",
+      "category": "mobile",
+      "mrp": 36999,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/4/h/-original-imahcrpwaxrsfjzd.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/a/e/-original-imahcrpwagaqvayz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/p/8/-original-imahcrpwhncyz7gd.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/f/p/d/-original-imahcrpw8qfzccjn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/u/s/-original-imahcrpwwpgzhat2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/a/5/-original-imahcrpwgkxfq5fs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/j/g/-original-imahcrpwezybezua.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/u/g/-original-imahcrpwzzrtgwnn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/3/e/-original-imahcrpwnyzhruxm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/b/k/-original-imahcrpwmvhhcryc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/b/g/-original-imahcrpwhgkbuk8h.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/1/k/-original-imahcrpwqgeggh8m.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/c/e/-original-imahcrpw7eksg8cp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/w/x/-original-imahcrpwzdjjgyua.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/w/6/-original-imahcrpwj3k6hftx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/v/x/-original-imahcrpwdwztmvtu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/h/-original-imahcrpwnkx7vcfr.jpeg"
+      ],
+      "averageRating": 4.2,
+      "totalReviews": 27510,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Pantone Shadow"
+        },
+        {
+          "type": "storage",
+          "name": "8GB + 256GB"
+        }
+      ],
+      "delivery": 5
+    },
+    {
+      "id": "mobile-1752860964115",
+      "name": "F7 5G (Frost White, 256 GB)  (12 GB RAM)",
+      "brand": "POCO",
+      "category": "mobile",
+      "mrp": 35999,
+      "salePrice": 349,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/w/l/-original-imahdpu7udvckghp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/s/6/-original-imahdpu7vw3gdcg2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/v/2/-original-imahdpu7vbhdbgcg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/i/l/-original-imahdpu7uugu4hxc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/k/f/-original-imahdpu7stegjwue.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/a/s/-original-imahdpu7rhkhkxey.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/i/3/-original-imahdpu7cggjcn32.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/u/g/-original-imahdpu7dx3khrf9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/3/v/-original-imahdpu7qzzatjp3.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/y/v/-original-imahdpu7zfhctzzd.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/m/a/-original-imahdpu7g8xdhrse.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/j/3/-original-imahdpu7cgy6qg9z.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/p/7/-original-imahdpu7zph2zzfh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/i/w/-original-imahdpu7zh5wkxfz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/b/h/-original-imahdpu7frhwygv7.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/h/r/-original-imahdpu7crnhhanj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/n/l/-original-imahdpu7sgg77tqj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/i/4/-original-imahdpu7mrngnhwh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/y/u/-original-imahdpu73mr3fqpm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/7/b/-original-imahdpu7qsjjugkq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/t/y/-original-imahdpu7pjrcmgxh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/d/k/-original-imahdpu7wfmpzr4u.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/8/s/-original-imahdpu7cssfwjxe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/s/z/-original-imahdpu7runfg4cd.jpeg"
+      ],
+      "averageRating": 4.8,
+      "totalReviews": 15861,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Frost White"
+        },
+        {
+          "type": "storage",
+          "name": "12GB + 256GB"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752861029154",
+      "name": "T4x 5G (Pronto Purple, 256 GB)  (8 GB RAM)",
+      "brand": "Vivo",
+      "category": "mobile",
+      "mrp": 20999,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/t/v/-original-imahavdv28z4nrkn.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/a/a/-original-imahavdvcyy4evzw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/2/o/t4x-5g-v2437-vivo-original-imah9ytgkp4yeby2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/u/8/t4x-5g-v2437-vivo-original-imah9ytgne5fhghs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/g/8/t4x-5g-v2437-vivo-original-imah9ytgrhkdz7fj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/1/k/-original-imaha77vb9xfhpjv.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/s/t/t4x-5g-v2437-vivo-original-imah9ytgubywta7t.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/a/c/-original-imaha77vumbs4zbs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/j/g/t4x-5g-v2437-vivo-original-imah9ytgsgsk9zud.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/c/r/-original-imaha77vxehzu822.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/r/b/t4x-5g-v2437-vivo-original-imah9ytgrcffhq2b.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/z/j/t4x-5g-v2437-vivo-original-imah9ytgwyzhyy2w.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/u/6/t4x-5g-v2437-vivo-original-imah9ytg4wqmad54.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/5/3/t4x-5g-v2437-vivo-original-imah9ytgagvcvjv6.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/d/g/t4x-5g-v2437-vivo-original-imah9ytgxcwjhwxm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/y/y/t4x-5g-v2437-vivo-original-imah9ytgqhk5hmyn.jpeg"
+      ],
+      "averageRating": 4.9,
+      "totalReviews": 20577,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Pronto Purple"
+        },
+        {
+          "type": "storage",
+          "name": "8GB + 256GB"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752861105181",
+      "name": "M7 Pro 5G (Lavender Frost, 128 GB)  (6 GB RAM)",
+      "brand": "POCO",
+      "category": "mobile",
+      "mrp": 18999,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/g/z/-original-imah7jsp8bh3s4rv.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/a/y/m7-pro-5g-mzb0ic9in-poco-original-imah7kmxhznzg9xb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/w/a/m7-pro-5g-mzb0icgin-poco-original-imah7kmxfzhnfhab.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/5/n/m7-pro-5g-mzb0ic9in-poco-original-imah7kmxfaebfzjs.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/c/i/m7-pro-5g-mzb0ic9in-poco-original-imah7kmxpzw8yycf.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/u/9/m7-pro-5g-mzb0ic9in-poco-original-imah7kmxfhhaa5zh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/b/f/m7-pro-5g-mzb0ic9in-poco-original-imah7kmxywqsqgh6.jpeg"
+      ],
+      "averageRating": 5,
+      "totalReviews": 39016,
+      "stockStatus": "Hot Deal",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Lavender Frost"
+        },
+        {
+          "type": "storage",
+          "name": "6GB + 128GB"
+        }
+      ],
+      "delivery": 2
+    },
+    {
+      "id": "others-1752861168589",
+      "name": "Watch Ultra 49mm GPS + Cellular - ECG App, Temp sensor, Fall Detection  (Midnight Strap, Regular)",
+      "brand": "Apple",
+      "category": "others",
+      "mrp": 89900,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/e/n/o/-original-imaghxh7rrdrnbsy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/z/f/m/-original-imaghxh7c7nhbyft.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/a/g/n/-original-imaghxg8t3ksryga.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/g/6/u/-original-imaghxg8egwfnf28.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/9/0/c/-original-imaghxg8yzeyvg8q.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/v/s/e/-original-imaghxg8zhdx4fha.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/u/w/-original-imaghxh7bgan272x.jpeg"
+      ],
+      "averageRating": 4,
+      "totalReviews": 6728,
+      "stockStatus": "Top Discount",
+      "variants": null,
+      "delivery": 4
+    },
+    {
+      "id": "others-1752861189879",
+      "name": "Watch Ultra GPS + Cellular - ECG App, Temp sensor, Blood oxygen, Fall Detection  (Green Alpine Strap, Small)",
+      "brand": "Apple",
+      "category": "others",
+      "mrp": 89900,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/8/1/-original-imaghxg8ghehmvzh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/0/6/3/-original-imaghxg8ubfhxgu9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/8/v/d/-original-imaghxg8rhscysu8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/a/g/n/-original-imaghxg8t3ksryga.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/g/6/u/-original-imaghxg8egwfnf28.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/9/0/c/-original-imaghxg8yzeyvg8q.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/v/s/e/-original-imaghxg8zhdx4fha.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/z/2/-original-imaghxg882fxfpuh.jpeg"
+      ],
+      "averageRating": 4.9,
+      "totalReviews": 28360,
+      "stockStatus": "Best Seller",
+      "variants": null,
+      "delivery": 3
+    },
+    {
+      "id": "others-1752861219073",
+      "name": "Galaxy Watch Ultra LTE  (White Strap, Large)",
+      "brand": "Samsung",
+      "category": "others",
+      "mrp": 69999,
+      "salePrice": 289,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/7/m/-original-imahcc4a3z6xmsme.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/a/w/2/-original-imahcc4ahchzf3ug.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/g/o/j/-original-imahcc4aqvrwz5rw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/5/p/4/-original-imahcc4amgdrk5fj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/1/l/c/-original-imahcc4aqhhgjnzg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/z/h/g/-original-imahcc4aw5azmexk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/v/u/g/-original-imahcc4amrzszpnp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/u/m/x/-original-imahcc4acguxemgh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/j/c/r/-original-imahcc4avyqhkngm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/x/g/t/-original-imahcc4ajrcpgcfh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/m/i/t/-original-imahcc4agwpwgfwh.jpeg"
+      ],
+      "averageRating": 4.2,
+      "totalReviews": 6162,
+      "stockStatus": "Top Discount",
+      "variants": null,
+      "delivery": 2
+    },
+    {
+      "id": "others-1752861299386",
+      "name": "Headphone(1) 42dB ANC| Dual Device| Hi-Res+LDAC|40mm Driver|Sound by KEF Bluetooth & Wired  (White, On the Ear)",
+      "brand": "Nothing",
+      "category": "others",
+      "mrp": 26999,
+      "salePrice": 259,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/e/f/f/-original-imahdhmvt3fpvrkw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/a/e/z/-original-imahdhmvjmqpegxe.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/2/w/o/-original-imahdhmv8gxpwdnj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/i/q/m/-original-imahdhmvznaxspgy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/2/m/k/-original-imahdhmvxqcw2gwx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/h/r/i/-original-imahdhmvpvzwbhq6.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/9/o/7/-original-imahdhmvuejqxzgw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/m/a/a/-original-imahdhmvqvmywd4e.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/1/z/6/-original-imahdhmvfdacqjar.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/a/o/-original-imahdhmvjctwdzzx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/3/y/8/-original-imahdhmvvznrgat6.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/8/p/h/-original-imahdhmvf8wjfjpp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/y/u/g/-original-imahdhmvuk6nwhvg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/5/q/8/-original-imahdhmvddgub9k9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/2/l/0/-original-imahdhmvdjcxdgkn.jpeg"
+      ],
+      "averageRating": 4.5,
+      "totalReviews": 21233,
+      "stockStatus": "Hot Deal",
+      "variants": null,
+      "delivery": 4
+    },
+    {
+      "id": "others-1752861326255",
+      "name": "ULT WEAR Noise Cancelling with Massive Bass & Comfortable Design Bluetooth  (Black, On the Ear)",
+      "brand": "Sony",
+      "category": "others",
+      "mrp": 24990,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/m/c/v/wh-ult900n-sony-original-imahf82ahfgazhbz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/4/u/4/-original-imahf9cfhxnhaprr.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/8/m/x/-original-imahf9cfqvhmsce5.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/f/6/s/-original-imahf9cfwst3khgh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/5/3/x/-original-imahf9cfuzmuqbpt.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/j/8/e/-original-imahf9cfgkzvs7b2.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/c/z/8/-original-imahf9cfctzhacq5.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/l/g/r/-original-imahf9cfyvxyexat.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/s/k/u/-original-imahf9cfxf5yhyhf.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/d/s/g/-original-imahf9cfqjahff9q.jpeg"
+      ],
+      "averageRating": 4.5,
+      "totalReviews": 28851,
+      "stockStatus": "Featured",
+      "variants": null,
+      "delivery": 3
+    },
+    {
+      "id": "others-1752861363802",
+      "name": "AirPods Pro (2nd generation) with MagSafe Case (USB-C) Bluetooth  (White, True Wireless)",
+      "brand": "Apple",
+      "category": "others",
+      "mrp": 24900,
+      "salePrice": 299,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/e/a/f/-original-imagtc44nk4b3hfg.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/u/r/y/-original-imagtc44zcupzhqh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/j/0/o/-original-imagtcfghamt7x4z.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/i/z/k/-original-imagtc447zmxjdpq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/6/6/h/-original-imagtdqgnhzehtgm.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/9/k/m/-original-imagtdqgzfnjwwqp.jpeg"
+      ],
+      "averageRating": 4.4,
+      "totalReviews": 19725,
+      "stockStatus": "Featured",
+      "variants": null,
+      "delivery": 5
+    },
+    {
+      "id": "others-1752861390983",
+      "name": "AirPods 4 Wireless Earbuds, Personalised Spatial Audio,Sweat and Water Resistant Bluetooth  (White, True Wireless)",
+      "brand": "Apple",
+      "category": "others",
+      "mrp": 12900,
+      "salePrice": 289,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/h/k/g/-original-imah4jvf79j6xdtd.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/1/z/k/-original-imah4jvftvzjn8zv.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/t/9/p/-original-imah4jvf99dym7q4.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/j/d/j/-original-imah4jvfazvhbyfy.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/b/o/1/-original-imah4jvfmnwashyp.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/3/d/1/-original-imah4jvffuytzg6u.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/f/w/3/-original-imah4jvfrnqy4khw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/a/r/-original-imah4jvfguk4fnym.jpeg"
+      ],
+      "averageRating": 5,
+      "totalReviews": 33060,
+      "stockStatus": "Hot Deal",
+      "variants": null,
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752861505131",
+      "name": "iPad Pro (M4) 512 GB ROM 11.0 Inch 2024 with Wi-Fi+5G (Silver)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 99900,
+      "salePrice": 459,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/l/1/z/-original-imahyp6kyptg8bkb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/7/y/i/-original-imahyp6kjuyfp5vq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/j/t/l/-original-imahyp6kxaa6zbru.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/u/l/t/-original-imahyp6kzt4hbhgx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/y/q/3/-original-imahyp6kebn4zjfz.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/q/3/o/-original-imahyp6jnssxvhjc.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/f/e/l/-original-imahyp6jyh3hjmyj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/g/i/d/-original-imahyp6jkwwahcse.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/v/j/f/-original-imahyp6kzfqj9wm9.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/tablet/w/b/1/-original-imahyp6kvg9bccyh.jpeg"
+      ],
+      "averageRating": 4.3,
+      "totalReviews": 4574,
+      "stockStatus": "Top Discount",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Silver"
+        },
+        {
+          "type": "storage",
+          "name": "M4 + 512GB"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "mobile-1752861573984",
+      "name": "MacBook AIR Apple M2 - (16 GB/256 GB SSD/macOS Sequoia) MC7X4HN/A  (13.6 Inch, Midnight, 1.24 kg)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 85900,
+      "salePrice": 589,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/f/j/d/-original-imagfdequ9yzecg6.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/a/w/p/-original-imagfdeqqe6kkuxw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/j/r/t/-original-imagfdeqhcbt4mfu.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/q/x/g/-original-imagfdeqzyg92uza.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/b/d/n/-original-imagfdeqvjtkhuhk.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/o/v/u/-original-imagfdeqej6rhh94.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/u/8/n/-original-imagfdeqhmfry6e8.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/k/n/v/-original-imagfdeqqwqtsfyr.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/l/g/v/-original-imagfdeqzggkghx6.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/l/e/b/-original-imagfdeqsgxj6chx.jpeg"
+      ],
+      "averageRating": 4.1,
+      "totalReviews": 18334,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Midnight"
+        },
+        {
+          "type": "storage",
+          "name": "M2 + 16 GB/256 GB SSD"
+        }
+      ],
+      "delivery": 4
+    },
+    {
+      "id": "mobile-1752861646134",
+      "name": "MacBook Air Apple M4 - (16 GB/256 GB SSD/macOS Sequoia) MW0W3HN/A  (13.6 inch, Silver, 1.24 kg)",
+      "brand": "Apple",
+      "category": "mobile",
+      "mrp": 99900,
+      "salePrice": 599,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/g/m/l/-original-imahayjpk2hvhayw.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/s/s/-original-imahayjpmzazpcwj.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/t/b/i/-original-imahayjpe2mwhugv.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/l/y/y/-original-imahayjpzcjbzgbt.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/d/q/-original-imahayjpf3ghhz3d.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/x/t/y/-original-imahayjph635vyaq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/l/v/-original-imahayjpefquymhb.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/0/o/5/-original-imahayjpze9rzdtr.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/m/9/-original-imahayjpd7sg954z.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/0/f/t/-original-imahayjpztygbyus.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/t/m/8/-original-imahayjpqgzuvqgw.jpeg"
+      ],
+      "averageRating": 4.6,
+      "totalReviews": 30377,
+      "stockStatus": "Best Seller",
+      "variants": [
+        {
+          "type": "color",
+          "name": "Silver"
+        },
+        {
+          "type": "storage",
+          "name": "M4 + 16 GB/256 GB SSD"
+        }
+      ],
+      "delivery": 3
+    },
+    {
+      "id": "others-1752867112267",
+      "name": "Voltas 52 L Desert Air Cooler  (White, Grand 52)",
+      "brand": "Voltas",
+      "category": "others",
+      "mrp": 12990,
+      "salePrice": 259,
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/z/3/2/190-0-grand-52-52-voltas-original-imahc6am7ba8kbmx.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/n/y/m/190-0-grand-52-52-voltas-original-imahc6amvyve5vfr.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/u/d/b/190-0-grand-52-52-voltas-original-imahc6am4hgdqmsa.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/0/1/8/190-0-grand-52-52-voltas-original-imahc6amc2bcecdq.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/f/a/c/190-0-grand-52-52-voltas-original-imahc6amsvzxhpgh.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/t/i/a/190-0-grand-52-52-voltas-original-imahc6am6ndfv8ns.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/q/t/6/190-0-grand-52-52-voltas-original-imahc6amqyxz5z5v.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/c/d/f/190-0-grand-52-52-voltas-original-imahc6ambbng9ega.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/z/j/f/190-0-grand-52-52-voltas-original-imahc6amhbgpjfyd.jpeg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/d/p/y/190-0-grand-52-52-voltas-original-imahc6amncwtsnz8.jpeg"
+      ],
+      "averageRating": 4.5,
+      "totalReviews": 5637,
+      "stockStatus": "Best Seller",
+      "variants": null,
+      "delivery": 3
+    },
+    {
       "id": "mobile-1753123105798",
       "name": "Fastrack Optimus2 Pro-1.43'' AMOLED|Advanced Blazing Fast UI|AOD|Metal Case|Working Crown Smartwatch  (Black Strap, Free Size)",
       "brand": "Fastrack",
